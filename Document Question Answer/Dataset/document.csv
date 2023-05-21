@@ -1,0 +1,11 @@
+id,question,answers,image_name
+train_0,what is the date mentioned in this letter?,['1/8/93'],image_0
+train_3,Who is in  cc in this letter?,['T.F. Riehl'],image_1
+train_4,what is the subject of  this letter?,['Review of existing Brainstorming Ideas/483'],image_2
+train_4,"What is the number at the bottom of the page, in bold?",['499150498'],image_3
+train_3,How many points are there in modifications to readout instrumentation,"['5.', '5']",image_4
+train_2,what is the date in the letter,"['June 11, 1990', 'June 11,1990']",image_5
+train_0,Who sent the letter?,['Ted Sanders'],image_6
+train_10,Which part of Virginia is this letter sent from,['Richmond'],image_7
+train_11,What sort of communication/letter is this ?,['INTER-OFFICE CORRESPONDENCE'],image_8
+train_12,What is the date mentioned in the letter?,"['April 27, 1990']",image_9
